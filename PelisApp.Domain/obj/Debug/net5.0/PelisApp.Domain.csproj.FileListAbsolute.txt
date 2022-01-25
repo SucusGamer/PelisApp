@@ -1,0 +1,15 @@
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\PelisApp.Domain.deps.json
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\PelisApp.Domain.runtimeconfig.json
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\PelisApp.Domain.runtimeconfig.dev.json
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\PelisApp.Domain.dll
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\ref\PelisApp.Domain.dll
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\bin\Debug\net5.0\PelisApp.Domain.pdb
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.AssemblyInfo.cs
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.dll
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\ref\PelisApp.Domain.dll
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.pdb
+C:\Users\Sucus\Desktop\PeliculasApp\PelisApp.Domain\obj\Debug\net5.0\PelisApp.Domain.genruntimeconfig.cache
